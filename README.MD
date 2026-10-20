@@ -1,11 +1,3 @@
-Main tumhare Live vs Staging QA Evidence Engine ke liye ek complete `README.md` / project specification Markdown file taiyar karunga. Ismein updated architecture, saare 8 add-ons, CLI commands, configuration, evidence structure, verdict rules, security, implementation phases aur acceptance criteria ek hi jagah honge.
-
-File mein planned features aur actually implemented/tested features ko clearly separate rakhenge, taaki koi fabricated test result ya unsupported claim na ho.
-
-Neeche complete Markdown document hai. Ise `README.md` naam se project ke root folder mein save kar sakte ho.
-
-Writing
-
 # Live vs Staging QA Evidence Engine
 
 **Automated Regression Verification, Visual Comparison, Performance Diagnostics & Release Quality Gate**
